@@ -1,2 +1,3 @@
 # website
-to show off my portfolio. jsut it.
+to show off my portfolio. stady.
+
